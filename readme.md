@@ -1,5 +1,5 @@
 
-# DiffBatt: Battery Degradation Prediction and Synthesis with Diffusion Models
+# DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis
 
 **Introduction**
 ================
