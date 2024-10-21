@@ -158,7 +158,7 @@ The project consists of the following files and folders:
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/***/diffbatt.git`
+1. Clone the repository: `git clone https://github.com/HamidrezaEiv/DiffBatt.git`
 2. Install required dependencies: `pip install -r requirements.txt`
 3. Train the model using the provided script (e.g., `python training.py`)
 
