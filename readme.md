@@ -4,7 +4,8 @@
 **Introduction**
 ================
 
-Battery degradation remains a critical challenge in the pursuit of green technologies and sustainable energy solutions. Despite significant research efforts, predicting battery capacity loss accurately remains a formidable task due to its complex nature, influenced by both aging and cycling behaviors. To address this challenge, we introduce DiffBatt, a novel general-purpose model for battery degradation prediction and synthesis.
+Battery degradation remains a critical challenge in the pursuit of green technologies and sustainable energy solutions. Despite significant research efforts, predicting battery capacity loss accurately remains a formidable task due to its complex nature, influenced by both aging and cycling behaviors. To address this challenge, we introduce DiffBatt, a novel general-purpose model for battery degradation prediction and synthesis. Discover how DiffBatt leverages GenAI to enhance battery technology in our [paper](https://arxiv.org/abs/2410.23893)!
+
 
 ![](./diffbatt.png)
 
@@ -167,6 +168,18 @@ To get started with the project, follow these steps:
 * NumPy 1.*
 * TensorFlow 2.14.0
 
+**Citation**
+----------------
+If you find our work relevant to your research, please cite:
+```
+@inproceedings{diffbatt,
+title={DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis},
+author={Hamidreza Eivazi and Andr{\'e} Hebenbrock and Raphael Ginster and Steffen Bl{\"o}meke and Stefan Wittek and Christoph Hermann and Thomas S. Spengler and Thomas Turek and Andreas Rausch},
+booktitle={Neurips 2024 Workshop Foundation Models for Science: Progress, Opportunities, and Challenges},
+year={2024},
+url={https://openreview.net/forum?id=EW9sDAuPAS}
+}
+```
 **Contributing**
 ----------------
 
